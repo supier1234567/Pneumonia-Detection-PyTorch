@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# 本地数据集
+*.npz
+
+# 模型权重
+*.pth
+*.pt
